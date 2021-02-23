@@ -1,6 +1,6 @@
 # IBM-Python-Basics
 This repository contains the lab exercises for the IBM Python Basics certification.  
-
+**Python Basics** 
 Lab 1: Types
 -   Write basic code in Python
 -   Work with various types of data in Python
@@ -12,6 +12,7 @@ Lab 2: Strings
 -   Perform operations on String
 -   Manipulate Strings using indexing and escape sequences
 
+**Data Structures**
 Lab 3: Tuples
 -   Perform the basics tuple operations in Python 
 -   Indexing 
@@ -24,4 +25,5 @@ Lab 4: Sets
 Lab 5: Dictionaries
 -   Working with libraries in Python, including operations
 
-
+**Programming Fundementals**
+Lab 6: 
