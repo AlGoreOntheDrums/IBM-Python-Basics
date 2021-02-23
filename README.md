@@ -18,7 +18,10 @@ Lab 3: Tuples
 -   Slicing 
 -   Sorting
 
-Lab 4: Dictionaries
+Lab 4: Sets
+-   Working with sets using operations, and logistic operations
+
+Lab 5: Dictionaries
 -   Working with libraries in Python, including operations
 
 
