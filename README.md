@@ -1,6 +1,7 @@
 # IBM-Python-Basics
 This repository contains the lab exercises for the IBM Python Basics certification.  
 **Python Basics** 
+
 Lab 1: Types
 -   Write basic code in Python
 -   Work with various types of data in Python
